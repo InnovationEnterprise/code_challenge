@@ -3,7 +3,7 @@
 This is a code challenge for Innovation Enterprise!
 Please use ruby to solve it.
 
-If you have any questions, please dont hesitate to send an email to: jkostaki@theiegroup.com
+If you have any questions, please dont hesitate to send an email to: dev@theiegroup.com
 
 Please submit you solution to the above email.
 
