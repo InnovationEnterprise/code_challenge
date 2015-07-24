@@ -1,12 +1,12 @@
 # Code Challenge
 
 This is a code challenge for Innovation Enterprise!
-Please use ruby to solve it.
 
-If you have any questions, please dont hesitate to send an email to: dev@theiegroup.com
+Please use Ruby to solve it.
 
-Please submit you solution to the above email.
+If you have any questions, please send an email to: dev@theiegroup.com
 
+Please submit a link to your solution to the above email (or the code files if you prefer).
 
 Happy coding!!
 
